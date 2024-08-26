@@ -1,8 +1,8 @@
 {
-  "name": "vue-demi",
+  "name": "@qiuguorong/vue-demi",
   "version": "0.14.10",
   "engines": {
-    "node": ">=12"
+    "node": ">=10"
   },
   "repository": "https://github.com/antfu/vue-demi.git",
   "funding": "https://github.com/sponsors/antfu",
